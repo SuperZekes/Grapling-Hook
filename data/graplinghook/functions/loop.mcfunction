@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:spectral_arrow] run tp @p ~ ~ ~
